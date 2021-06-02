@@ -1,13 +1,13 @@
 # 100 Days Of Code - Log
 
 ### Day 0: June 2, 2021 (Day 1)
-##### (delete me or comment me out)
+##### (Learning Javascript as a Beginner)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked with array in javascript (just learning js so array fundamentals).
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I really struggled with learning js, but, overall, I feel like I am slowly getting better at it.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Array Exercise](http://www.asmarterwaytolearn.com/javascript/15.html)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
