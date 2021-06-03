@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: June 2, 2021 (Day 1)
+### Day 1: June 2, 2021 (Day 1)
 ##### (Learning Javascript as a Beginner)
 
 **Today's Progress**: Worked with array in javascript (just learning js so array fundamentals).
@@ -8,6 +8,14 @@
 **Thoughts:** I really struggled with learning js, but, overall, I feel like I am slowly getting better at it.
 
 **Link to work:** [Array Exercise](http://www.asmarterwaytolearn.com/javascript/15.html)
+### Day 2: June 3, 2021 (Day 2)
+##### (Learning Javascript as a Beginner)
+
+**Today's Progress**: Worked with basics of loop in javascript .
+
+**Thoughts:** I really struggled with learning js, but, overall, I feel like I am slowly getting better at it.
+
+**Link to work:** [ForLoop Exercise](http://www.asmarterwaytolearn.com/javascript/18.html)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
