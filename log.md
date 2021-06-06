@@ -29,6 +29,26 @@ and loopus interruptus.
 **Link to work:** [Flags, Booleans, array length,
 and loopus interruptus Exercise](http://www.asmarterwaytolearn.com/javascript/19.html)
 
+### Day 4: June 5, 2021 (Day 4)
+##### (Learning Javascript as a Beginner)
+
+**Today's Progress**: Worked with For nested loop.
+
+**Thoughts:** I really struggled with learning js, but, overall, I feel like I am slowly getting better at it.
+
+**Link to work:** [nested for loop](http://www.asmarterwaytolearn.com/javascript/20.html)
+
+### Day 5: June 6, 2021 (Day 5)
+##### (Learning Javascript as a Beginner)
+
+**Today's Progress**: Worked Changing case ( toLowercase and toUpperCase).
+
+**Thoughts:** I really struggled with learning js, but, overall, I feel like I am slowly getting better at it.
+
+**Link to work:** [Changing case](http://www.asmarterwaytolearn.com/javascript/21.html)
+
+
+
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
