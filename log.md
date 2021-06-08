@@ -41,11 +41,32 @@ and loopus interruptus Exercise](http://www.asmarterwaytolearn.com/javascript/19
 ### Day 5: June 6, 2021 (Day 5)
 ##### (Learning Javascript as a Beginner)
 
-**Today's Progress**: Worked Changing case ( toLowercase and toUpperCase).
+**Today's Progress**: Worked on Changing case ( toLowercase and toUpperCase).
 
 **Thoughts:** I really struggled with learning js, but, overall, I feel like I am slowly getting better at it.
 
 **Link to work:** [Changing case](http://www.asmarterwaytolearn.com/javascript/21.html)
+
+### Day 6: June 7, 2021 (Day 6)
+##### (Learning Javascript as a Beginner)
+
+**Today's Progress**: Worked on Measuring length
+and extracting parts.
+
+**Thoughts:** I really struggled with learning js, but, overall, I feel like I am slowly getting better at it.
+
+**Link to work:** [Measuring length
+and extracting parts](http://www.asmarterwaytolearn.com/javascript/22.html)
+
+### Day 7: June 8, 2021 (Day 7)
+##### (Learning Javascript as a Beginner)
+
+**Today's Progress**: Worked on Strings:
+Finding segments.
+
+**Thoughts:** I really struggled with learning js, but, overall, I feel like I am slowly getting better at it.
+
+**Link to work:** [Changing case](http://www.asmarterwaytolearn.com/javascript/23.html)
 
 
 
