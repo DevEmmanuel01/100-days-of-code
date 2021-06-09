@@ -66,8 +66,12 @@ Finding segments.
 
 **Thoughts:** I really struggled with learning js, but, overall, I feel like I am slowly getting better at it.
 
-**Link to work:** [Changing case](http://www.asmarterwaytolearn.com/javascript/23.html)
+**Link to work:** [Finding segments](http://www.asmarterwaytolearn.com/javascript/23.html)
 
+### Day 8: June 9, 2021 
+##### (Learning Javascript as a Beginner)
+
+**Today's Progress**: reviewing my javascript skills and working on c++ for beginners.
 
 
 ### Day 0: February 30, 2016 (Example 2)
