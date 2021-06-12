@@ -73,6 +73,14 @@ Finding segments.
 
 **Today's Progress**: reviewing my javascript skills and working on c++ for beginners.
 
+### Day 9: June 12, 2021 
+##### (Learning Javascript as a Beginner)
+
+**Today's Progress**: Worked on Strings.
+
+**Thoughts:** I really struggled with learning js, but, overall, I feel like I am slowly getting better at it.
+
+**Link to work:** [character at a location](http://www.asmarterwaytolearn.com/javascript/23.html)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
